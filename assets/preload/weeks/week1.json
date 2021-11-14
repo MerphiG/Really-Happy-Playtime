@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"really-happy",
+			"mouse",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"playtime",
+			"huggy",
+			[
+				80,
+				80,
+				255
+			]
+		],
+		[
+			"really-happy-playtime",
+			"huggykill",
+			[
+				40,
+				40,
+				40
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "street",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "happy =)",
+	"weekName": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

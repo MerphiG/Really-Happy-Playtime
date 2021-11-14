@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "huggykillLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "huggykillRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "huggykillUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-180
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "huggykillDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-40
+			],
+			"anim": "kick",
+			"fps": 24,
+			"name": "huggykillkick",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-24
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "huggykillun-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-81,
+				-48
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "huggykillidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				351
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "huggykillU-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				4
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "huggykillL-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				-20
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "huggykillR-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-180
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "huggykilld-alt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/huggykill",
+	"position": [
+		0,
+		-40
+	],
+	"healthicon": "huggykill",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		20
+	],
+	"camera_position": [
+		-160,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}
